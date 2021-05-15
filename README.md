@@ -3,7 +3,7 @@
 Have you read [Rector - The Power of Automated Refactoring](https://leanpub.com/rector-the-power-of-automated-refactoring) book?
 
 <a href="https://leanpub.com/rector-the-power-of-automated-refactoring">
-    <img src="https://d2sofvawe08yqg.cloudfront.net/rector-the-power-of-automated-refactoring/hero?1620656416" style="max-width: 10em;border:1px solid #DDD;padding: .8em;">
+    <img src="https://d2sofvawe08yqg.cloudfront.net/rector-the-power-of-automated-refactoring/hero?1620656416" style="max-width:8em">
 </a>
 
 <br>

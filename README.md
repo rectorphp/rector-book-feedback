@@ -3,32 +3,35 @@
 Have you read [Rector - The Power of Automated Refactoring](https://leanpub.com/rector-the-power-of-automated-refactoring) book?
 
 <a href="https://leanpub.com/rector-the-power-of-automated-refactoring">
-    <img src="https://d2sofvawe08yqg.cloudfront.net/rector-the-power-of-automated-refactoring/hero?1620656416" style="max-width: 14em;border: 1px solid #DDD;padding: .8em;">
+    <img src="https://d2sofvawe08yqg.cloudfront.net/rector-the-power-of-automated-refactoring/hero?1620656416" style="max-width: 10em;border:1px solid #DDD;padding: .8em;">
 </a>
+
+<br>
 
 This is repository is a place for your feedback!  
 
-We will release new edition of the book as Rector will evolve, to make the content up to date. We need your help to keep improve the quality and fix the glitches we missed.
+We will release new edition of the book with these fixes, to make the content up to date. **We need your help** to improve the quality and fix the glitches we missed.
 
-## What Feedback we Look for?
-
-Here are 3 groups with examples that we can integrate in the book.
-
-**How does the ideal feedback look like?**
+## What is Ideal Feedback?
 
 - it has the page number
 - diff format of before/after
 - 1-2 sentences to explain "why" do you suggest the change, so we can understand it right from your proposal
 
-<br>
 
-Here are examples of feedback we look for: 
+## What Feedback we Look for?
 
-### 1. Glitch
+Here are 3 feedbacks we can integrate in the book:
+
+### 1. A Glitch
+
+- [Create issue](https://github.com/rectorphp/the-power-of-automated-refactoring-feedback/issues/new?assignees=&labels=glitch&template=1_glitch.md)
 
 "On page 43 there is a typo in "coed" word, should be "code"."
 
 ### 2. Code Improvement
+
+- [Code Improvement](https://github.com/rectorphp/the-power-of-automated-refactoring-feedback/issues/new?assignees=&labels=code&template=2_code.md)
 
 "The code on page 12 seems too long for its purpose. Shorted version might keep reader focused on the content instead of dragging PHP syntax."
 
@@ -42,6 +45,8 @@ Here are examples of feedback we look for:
 ```
 
 ### 3. Text Improvement
+
+- [Create issue](https://github.com/rectorphp/the-power-of-automated-refactoring-feedback/issues/new?assignees=&labels=text&template=3_text.md)
 
 "On page 78 the paragraph starting with 'One day we decided...' seems a bit unclear to me. It would help to explain what 3 exact steps we have to do in real project."
 

@@ -19,15 +19,11 @@ We will release new edition of the book with these fixes, to make the content up
 
 Here are 3 feedbacks we can integrate in the book:
 
-### 1. A Glitch
-
-- [Create issue](https://github.com/rectorphp/the-power-of-automated-refactoring-feedback/issues/new?assignees=&labels=glitch&template=1_glitch.md)
+### 1. A Glitch - [Create](https://github.com/rectorphp/the-power-of-automated-refactoring-feedback/issues/new?assignees=&labels=glitch&template=1_glitch.md)
 
 "On page 43 there is a typo in "coed" word, should be "code"."
 
-### 2. Code Improvement
-
-- [Code Improvement](https://github.com/rectorphp/the-power-of-automated-refactoring-feedback/issues/new?assignees=&labels=code&template=2_code.md)
+### 2. Code Improvement - [Create](https://github.com/rectorphp/the-power-of-automated-refactoring-feedback/issues/new?assignees=&labels=code&template=2_code.md)
 
 "The code on page 12 seems too long for its purpose. Shorted version might keep reader focused on the content instead of dragging PHP syntax."
 
@@ -40,9 +36,7 @@ Here are 3 feedbacks we can integrate in the book:
 +return $value === 10 ? 'yes' : 'no';
 ```
 
-### 3. Text Improvement
-
-- [Create issue](https://github.com/rectorphp/the-power-of-automated-refactoring-feedback/issues/new?assignees=&labels=text&template=3_text.md)
+### 3. Text Improvement - [Create](https://github.com/rectorphp/the-power-of-automated-refactoring-feedback/issues/new?assignees=&labels=text&template=3_text.md)
 
 "On page 78 the paragraph starting with 'One day we decided...' seems a bit unclear to me. It would help to explain what 3 exact steps we have to do in real project."
 

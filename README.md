@@ -48,7 +48,7 @@ We appreciate your will to help other readers, so they can get better quality co
 
 Thank you!
 
-[Matthias Noback](https://matthiasnoback.nl/) & [Tomas Votruba](https://tomasvotruba.com/), authors
+[Matthias Noback](https://matthiasnoback.nl/) & [Tomas Votruba](https://tomasvotruba.com/)
 
 <br>
 

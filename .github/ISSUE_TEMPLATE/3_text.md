@@ -1,6 +1,6 @@
 ---
 name: Text Improvement
-labels: text-improvement
+labels: text
 about: Report text feedback
 ---
 

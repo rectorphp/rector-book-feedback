@@ -1,6 +1,6 @@
 ---
 name: Code Improvement
-labels: code-improvement
+labels: code
 about: Report code feedback
 ---
 

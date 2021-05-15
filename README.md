@@ -2,11 +2,7 @@
 
 Have you read [Rector - The Power of Automated Refactoring](https://leanpub.com/rector-the-power-of-automated-refactoring) book?
 
-<a href="https://leanpub.com/rector-the-power-of-automated-refactoring">
-    <img src="https://d2sofvawe08yqg.cloudfront.net/rector-the-power-of-automated-refactoring/hero?1620656416" style="max-width:8em">
-</a>
-
-<br>
+![Rector - The Power of Automated Refactoring book](images/book_title.png)
 
 This is repository is a place for your feedback!  
 

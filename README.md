@@ -1,6 +1,10 @@
 # Improve the next Version of Rector Book
 
-Have you read [Rector - The Power of Automated Refactoring](https://leanpub.com/rector-the-power- of-automated-refactoring) book?
+Have you read [Rector - The Power of Automated Refactoring](https://leanpub.com/rector-the-power-of-automated-refactoring) book?
+
+<a href="https://leanpub.com/rector-the-power-of-automated-refactoring">
+    <img src="https://d2sofvawe08yqg.cloudfront.net/rector-the-power-of-automated-refactoring/hero?1620656416" style="max-width: 14em;border: 1px solid #DDD;padding: .8em;">
+</a>
 
 This is repository is a place for your feedback!  
 
@@ -40,6 +44,16 @@ Here are examples of feedback we look for:
 ### 3. Text Improvement
 
 "On page 78 the paragraph starting with 'One day we decided...' seems a bit unclear to me. It would help to explain what 3 exact steps we have to do in real project."
+
+<br>
+
+## Thank You
+
+We appreciate your will to help other readers, so they can get better quality content.
+
+Thank you!
+
+[Matthias Noback](https://matthiasnoback.nl/) & [Tomas Votruba](https://tomasvotruba.com/), authors
 
 <br>
 

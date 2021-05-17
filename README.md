@@ -54,4 +54,4 @@ Thank you!
 
 ## Book and Rector Versions
 
-Version of 1.0 book is released with [Rector 0.11.2](https://github.com/rectorphp/rector/releases/tag/0.11.2) (2021-05-15) and PHP 8.0 (2020-12). 
+Version of 1.0 book is released with [Rector 0.11.3](https://github.com/rectorphp/rector-src/releases/tag/0.11.3) (2021-05-17) and PHP 8.0 (2020-12).

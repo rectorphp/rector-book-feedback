@@ -4,7 +4,7 @@ labels: glitch
 about: Report glitch
 ---
 
-# Code Improvement
+# Glitch
 
 I found a glitch on page <complete>
 

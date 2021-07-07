@@ -6,7 +6,7 @@ about: Report text feedback
 
 # Text Improvement
 
-I think text on page <complete> could be improved:
+I think the text on page <complete> could be improved:
 
 **Why?**
 
